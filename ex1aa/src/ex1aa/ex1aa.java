@@ -14,6 +14,9 @@ public class ex1aa {
 
 		            case 2:
 		                System.out.println("2");
+		                
+		            case 3:
+		            	System.out.println("2");
 		//break;
 
 		        }
